@@ -1,7 +1,17 @@
 - 👋 Hi, I’m @volvojakobsen
-- 👀 I’m interested in ...
+- 
+- 👀 I’m interested in 
+learning front end development, computers, cars and motorsports.
+
 - 🌱 I’m currently learning to become a front end dev.
-- 💞️ I’m looking to collaborate on ...
+ i am currently taking a 2 year course at noroff to become a front end dev.
+so far i have learned a lot about:
+
+html
+css
+javascript
+
+
 - 📫 How to reach me volvo240jakobsen@gmail.com
 
 <!---
