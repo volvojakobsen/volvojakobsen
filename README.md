@@ -4,13 +4,17 @@
 learning front end development, computers, cars and motorsports.
 
 - 🌱 I’m currently learning to become a front end dev.
- i am currently taking a 2 year course at noroff to become a front end dev.
+ i am now finishing a 2 year course at noroff to become a front end dev.
 so far i have learned a lot about:
 
-html
-css
-javascript
+- html
+- css
+- scss
+- javascript
+- bootstrap
+- react
 
+### available for hire from june 2023.
 
 - 📫 How to reach me volvo240jakobsen@gmail.com
 
