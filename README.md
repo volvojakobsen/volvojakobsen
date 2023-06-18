@@ -13,7 +13,7 @@ learning front end development, computers, cars and motorsports.
 
 - 📫 How to reach me **volvo240jakobsen@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
