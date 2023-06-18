@@ -5,14 +5,13 @@
 - 👀 I’m interested in 
 learning front end development, computers, cars and motorsports.
 
--I have now finished a 2 year course of frontend development at Noroff fagskole, and i am now looking for a job as a frontend developer.
-
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://effortless-sawine-1a3c4d.netlify.app/](https://effortless-sawine-1a3c4d.netlify.app/)
 
 - 📫 How to reach me **volvo240jakobsen@gmail.com**
 
+-I have now finished a 2 year course of frontend development at Noroff fagskole, and i am now looking for a job as a frontend developer.
 
 <p align="left">
 </p>
